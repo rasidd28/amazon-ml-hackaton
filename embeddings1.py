@@ -23,7 +23,7 @@ print("=" * 80)
 print("\n[INITIALIZATION] Configuring environment parameters...")
 
 # Directory structure
-PROJECT_ROOT = "/home/cs23b2009/amazon_ml_hackathon"
+PROJECT_ROOT = "/home/me22b1026/amazon_ml_hackathon"
 TRAINING_FILE = f"{PROJECT_ROOT}/dataset/train.csv"
 TESTING_FILE = f"{PROJECT_ROOT}/dataset/test.csv"
 IMAGE_CACHE = f"{PROJECT_ROOT}/images"

@@ -20,7 +20,7 @@ print("=" * 80)
 # ====================================================================================
 print("\n[STEP 1] Loading datasets from disk...")
 
-DATA_PATH = "/home/cs23b2009/amazon_ml_hackathon"
+DATA_PATH = "/home/ME22B1026/amazon_ml_hackathon"
 training_data = pd.read_csv(f"{DATA_PATH}/dataset/train.csv")
 testing_data = pd.read_csv(f"{DATA_PATH}/dataset/test.csv")
 

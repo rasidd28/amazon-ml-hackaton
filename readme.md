@@ -10,7 +10,7 @@ An end-to-end multimodal machine learning pipeline that predicts product prices 
 
 - **Puneeth P**
 - **Venu Madhav Reddy**
-- **Bhargav Sai Teja**
+- **Bhargava Teja**
 - **M Rahul Siddhartha** 
 
 ---
